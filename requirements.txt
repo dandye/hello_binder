@@ -58,7 +58,7 @@ configobj==5.0.6
 contextlib2==0.5.3
 cot==1.6.1
 coverage==4.3.4
-cryptography==1.8.1
+cryptography==3.2
 cybox==2.1.0.14
 cycler==0.10.0
 Cython==0.24.1
