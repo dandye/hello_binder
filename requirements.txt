@@ -125,7 +125,7 @@ iso8601==0.1.12
 itsdangerous==0.24
 jdcal==1.2
 jedi==0.9.0
-Jinja2==2.8
+Jinja2==2.11.3
 jira==1.0.10
 jsonpickle==0.9.4
 jsonschema==2.5.1
