@@ -248,7 +248,7 @@ python-novaclient==9.1.0
 python-ntlm==1.1.0
 pytz==2016.6.1
 pyvmomi==6.0.0.2016.6
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==15.4.0
 QtAwesome==0.3.3
 qtconsole==4.2.1
