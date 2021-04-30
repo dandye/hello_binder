@@ -142,7 +142,7 @@ lazy-object-proxy==1.2.1
 ledger-agent==0.9.0
 ledgerblue==0.1.16
 libagent==0.9.7
-libtaxii==1.1.107
+libtaxii==1.1.118
 libusb1==1.6.4
 littleutils==0.2.0
 llvmlite==0.13.0
