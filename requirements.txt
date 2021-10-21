@@ -17,7 +17,7 @@ astroid==1.4.7
 astropy==1.2.1
 asttokens==1.1.10
 async-timeout==2.0.0
-Babel==2.3.4
+Babel==2.9.1
 backports.csv==1.0.1
 backports.shutil-get-terminal-size==1.0.0
 backports.shutil-which==3.5.1
