@@ -118,7 +118,7 @@ idna==2.6
 imagesize==0.7.1
 IPy==0.83
 ipykernel==4.8.2
-ipython==5.1.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==7.2.1
 iso8601==0.1.12
