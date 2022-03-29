@@ -191,7 +191,7 @@ oslo.utils==3.30.0
 OWSLib==0.14.0
 packaging==16.8
 pandas==0.23.3
-paramiko==2.3.1
+paramiko==2.10.1
 partd==0.3.6
 passlib==1.7.1
 path-and-address==1.1.0
