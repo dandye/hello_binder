@@ -256,7 +256,7 @@ QtPy==1.4.0
 qualname==0.1.0
 recommonmark==0.4.0
 redis==2.10.5
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.19.1
 requests-oauthlib==0.8.0
 requests-toolbelt==0.8.0
