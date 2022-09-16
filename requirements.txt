@@ -187,7 +187,7 @@ openpyxl==2.3.2
 ordered-set==2.0.2
 oslo.i18n==3.18.0
 oslo.serialization==2.21.0
-oslo.utils==3.30.0
+oslo.utils==4.10.1
 OWSLib==0.14.0
 packaging==16.8
 pandas==0.23.3
